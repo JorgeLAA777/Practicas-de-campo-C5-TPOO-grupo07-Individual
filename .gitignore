@@ -1,0 +1,16 @@
+# Ignorar archivos compilados
+*.class
+
+# Ignorar carpetas de salida
+/bin/
+/target/
+
+# Ignorar configuraciones de IDE
+/.idea/
+/*.iml
+/.classpath
+/.project
+
+# Ignorar archivos temporales y logs
+*.log
+*.tmp
