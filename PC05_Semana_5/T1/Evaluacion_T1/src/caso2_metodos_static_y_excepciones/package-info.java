@@ -1,0 +1,1 @@
+package caso2_metodos_static_y_excepciones;
